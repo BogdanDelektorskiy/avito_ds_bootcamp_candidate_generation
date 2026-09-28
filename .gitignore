@@ -1,0 +1,12 @@
+.DS_Store
+.idea/
+.vscode/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+data/
+work/
+cache/
+*.parquet
+*.zip
+
